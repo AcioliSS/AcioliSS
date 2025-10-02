@@ -1,5 +1,63 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&pause=1000&width=435&lines=BACK-END+DEVELOPER+%7C+CAT+LOVER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=40&duration=3000&pause=2000&width=435&lines=BACK-END+DEVELOPER+%7C+CAT+LOVER)](https://git.io/typing-svg)
+<h1 align="center"></h1>
+
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzYxZ216ZmF0OXA1bW82dW95dGRpamo4eGMwaWhocTl3dHZqaGU3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif"  />
+</div>
+
+
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+</div>
+
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AcioliSS.AcioliSS&left_color=crimson&right_color=darkred"  />
+</div>
+
+
+
+<h2 align="left">👩‍💻  About Me</h2>
+
+
+
+<h5 align="left">I'm a back-end developer from Brazil<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</h5>
+
+
+
+<h3 align="left">🛠 Language and tools</h3>
+
+
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+</div>
+
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+
 <!--
 **AcioliSS/AcioliSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
