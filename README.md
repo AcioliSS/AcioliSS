@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&pause=1000&width=435&lines=BACK-END+DEVELOPER+%7C+CAT+LOVER)](https://git.io/typing-svg)
 <!--
 **AcioliSS/AcioliSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
