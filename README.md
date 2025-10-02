@@ -22,7 +22,7 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=60&duration=3000&pause=1000&color=F75A49&width=435&lines=Hi%2C+I'm+Acioli;I'm+a+Developer" alt="Typing SVG" /></a>" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=40&duration=3000&pause=1000&color=F75A49&width=435&lines=Hi%2C+I'm+Acioli;I'm+a+Developer" alt="Typing SVG" /></a>
 </div>
 
 <h5 align="left">I'm a back-end developer from Brazil<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</h5>
