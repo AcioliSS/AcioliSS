@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=35&duration=3000&pause=1000&color=F75A49&width=435&lines=Hi+there!" alt="Typing SVG" /></a>
-</div>
-
 <h1 align="center">Hi There!</h1>
 
 ###
