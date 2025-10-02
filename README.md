@@ -1,10 +1,7 @@
 <div align="center">
-  <h1>
-    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=40&duration=3000&pause=2000&width=435&lines=BACK-END+DEVELOPER+%7C+CAT+LOVER)](https://git.io/typing-svg)
-" width="40" alt="GitHub Logo" />
-    Meu Projeto Git
-  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=40&duration=3000&pause=2000&width=435&lines=BACK-END+DEVELOPER+%7C+CAT+LOVER" alt="Typing SVG" />
 </div>
+
 
 
 
