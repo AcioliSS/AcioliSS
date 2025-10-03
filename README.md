@@ -78,7 +78,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AcioliSS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AcioliSS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AcioliSS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+<div align = "left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=2000&pause=1000&color=99F759&vCenter=true&width=690&height=40&lines=Programming+and+life+are+the+same+thing.+;If+it's+not+to+help+your+colleague%2C+what's+the+point%3F" alt="Typing SVG" /></a>
 </div>
 
 ###
