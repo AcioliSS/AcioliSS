@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center"><br> Learning Ruby on Rails | Data-Oriented Design <br></p>  <p align = "center"> Free time = Music | Podcast | Reading</p>
+<p align="center"><br> Learning Ruby on Rails | Platform-Engineering <br></p>  <p align = "center"> Free time = Music | Podcast | Reading</p>
 
 ###
 
